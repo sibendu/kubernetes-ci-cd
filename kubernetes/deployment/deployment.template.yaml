@@ -34,4 +34,4 @@ spec:
           initialDelaySeconds: 5
           timeoutSeconds: 5
       imagePullSecrets:
-      - name: my-new-oke-secret
+      - name: my-oke-secret
